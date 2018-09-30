@@ -1,10 +1,10 @@
 # Image Mosaic based on SIFT and RANSAC
-**This is the project design of course *Digital Image Processing* (2017-2018, Fall) in Tsinghua University presented by Dr.Shengjin Wang**
+**This is the project design of course *Digital Image Processing* (2017-2018, Fall) in Tsinghua University presented by Dr.Shengjin Wang**.
 
 ## Requirement
-1.OpenCV 3.4.1 for python
-2.OpenCV-Contrib 3.4.1
-3.numpy 1.8.0rc1 or higher
+1. OpenCV 3.4.1 for python
+2. OpenCV-Contrib 3.4.1
+3. numpy 1.8.0rc1 or higher
 
 ## Intro
 ### SIFT
@@ -45,3 +45,4 @@ where:
 --result_name: The file name of the mosaic result. Default:'result.jpg'
 --format: The file format of your images set. It can contain various format. Default:'jpg png'
 ```
+The result image will be placed where you specify or in `./Result/` by default.
