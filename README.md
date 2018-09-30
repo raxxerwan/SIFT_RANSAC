@@ -13,7 +13,7 @@ SIFT(Scale-invariant Feature Transform) is a computer vision algorithm presented
 ### RANSAC
 RANSAC can be used to fit linear relation. Different from The Least Square Method, RANSAC is especially efficient for strong noisy data.
 
-See `./Report.pdf` for more detail.
+See [Report.pdf](https://github.com/raxxerwan/SIFT_RANSAC/blob/master/Report.pdf) for more detail.
 
 ## Images Set
 Put all the images you want to mosaic in `./Pics/`. The image files should be named in ascending order. The algorithm will mosaic them from left to right according to the index of file names.
