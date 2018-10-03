@@ -49,11 +49,12 @@ The result image will be placed where you specify or in `./Result/` by default.
 
 ## Samples
 ### Before:
-![table1.jpg](https://raw.githubusercontent.com/raxxerwan/SIFT_RANSAC/master/Pics/table1.JPG ''1'')
-![table2.jpg](https://raw.githubusercontent.com/raxxerwan/SIFT_RANSAC/master/Pics/table2.JPG ''2'')
-![table3.jpg](https://raw.githubusercontent.com/raxxerwan/SIFT_RANSAC/master/Pics/table3.JPG ''3'')
-![table4.jpg](https://raw.githubusercontent.com/raxxerwan/SIFT_RANSAC/master/Pics/table4.JPG ''4'')
-![table5.jpg](https://raw.githubusercontent.com/raxxerwan/SIFT_RANSAC/master/Pics/table5.JPG ''5'')
+![table1.jpg](https://raw.githubusercontent.com/raxxerwan/SIFT_RANSAC/master/Pics/table1.JPG)
+
+![table2.jpg](https://raw.githubusercontent.com/raxxerwan/SIFT_RANSAC/master/Pics/table2.JPG)
+![table3.jpg](https://raw.githubusercontent.com/raxxerwan/SIFT_RANSAC/master/Pics/table3.JPG)
+![table4.jpg](https://raw.githubusercontent.com/raxxerwan/SIFT_RANSAC/master/Pics/table4.JPG)
+![table5.jpg](https://raw.githubusercontent.com/raxxerwan/SIFT_RANSAC/master/Pics/table5.JPG)
 
 ### After:
-![result.jpg](https://raw.githubusercontent.com/raxxerwan/SIFT_RANSAC/master/Result/result.jpg ''result'')
+![result.jpg](https://raw.githubusercontent.com/raxxerwan/SIFT_RANSAC/master/Result/result.jpg)
